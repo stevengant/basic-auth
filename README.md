@@ -8,8 +8,8 @@
 Refactor provided server using best practices, modularizing the code and provide tests.
 
 ### Links and Resources
-  - [Github Actions ci/cd]()
-  - [back-end server surl]()
+  - [Github Actions ci/cd](https://github.com/stevengant/basic-auth/actions)
+  - [back-end server surl](https://stevegant-basic-auth.onrender.com)
 
 ### Setup
 
